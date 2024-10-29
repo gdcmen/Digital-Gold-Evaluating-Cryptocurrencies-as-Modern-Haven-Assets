@@ -12,7 +12,7 @@ This project explores whether cryptocurrencies, particularly Bitcoin and Ethereu
    2. Time Series Analysis (Phase 3)
        - *Code:* time_series_analysis.R
        - *Description:* Plots each variable as a time series, decomposes trends, seasonality, and residuals, and applies Box-Cox transformations.
-       = *Key Packages:* ggplot2, tsibble, fable
+       - *Key Packages:* ggplot2, tsibble, fable
 
    3. Forecasting (Phase 4)
        - *Code:* forecasting_methods.R
