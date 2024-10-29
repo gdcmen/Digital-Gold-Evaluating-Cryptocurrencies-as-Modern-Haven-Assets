@@ -36,6 +36,27 @@ This project explores whether cryptocurrencies, particularly Bitcoin and Ethereu
         - *Code:* cvi_analysis.R
         - *Description:* Analyzes the CVI to determine market sentiment and potential stability, showing how cryptocurrencies might evolve as stable assets.
         - *Key Packages:* fabletools, ggplot2
+     
+### Data Sources
+The project uses a variety of economic indicators and financial data to analyze cryptocurrency stability, sourced from reliable public databases. Below is the origin of each data component:
 
-Conclusion:
+- Currency in Circulation (M1 & M2):
+   - Federal Reserve: FRB H6 Release (https://www.federalreserve.gov/releases/h6/current/default.htm)
+   - CSV Download: Federal Reserve Data
+   - Data Explanation: Federal Reserve Table
+ 
+- Cryptocurrency Data (Prices, Volume, and CVI):
+   - Investing.com: Cryptocurrency Overview (https://www.investing.com/crypto)
+   - Cryptocurrency Volatility Index (CVI): Crypto Volatility Historical Data (https://www.investing.com/indices/crypto-volatility-index-historical-data)
+
+- Gold Prices (USD/Oz):
+   - Yahoo Finance: Gold Historical Data (https://finance.yahoo.com/quote/GC%3DF/history/)
+
+- GDP Growth:
+   - IMF: GDP Growth by Country (https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD/USA)
+
+- Inflation and Interest Rate:
+   - Statista: U.S. Inflation and Interest Rates (https://www.statista.com/topics/774/inflation/)
+
+### Conclusion:
 - This repository offers a comprehensive look at cryptocurrencies’ potential as safe-haven assets through predictive and sentiment analysis. Each script provides insights into the evolving role of cryptocurrencies in financial markets, with detailed commentary and visualizations.
