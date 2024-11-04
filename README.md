@@ -1,5 +1,7 @@
 # Digital-Gold-Evaluating-Cryptocurrencies-as-Modern-Haven-Assets
 
+![image](https://github.com/user-attachments/assets/36a4da7d-0f21-41a9-bb43-646c07ddc0fb)
+
 ### Description:
 This project explores whether cryptocurrencies, particularly Bitcoin and Ethereum, can act as safe-haven assets similar to gold. Using historical data and economic indicators (e.g., M1, M2, inflation rate, gold prices), I conducted a thorough analysis of cryptocurrencies’ stability and resilience using time series transformations, forecasting, and volatility assessments.
 
